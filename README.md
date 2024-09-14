@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, and welcome to my GitHub space! I'm Vivek Prakash, a dedicated machine learning engineer and full stack developer with a profound interest in integrating IIoT (Industrial Internet of Things) with cutting-edge machine learning technologies.<br>
+👋 Hello, and welcome to my GitHub space! I'm Vivek Prakash, a dedicated machine/AI learning engineer and Backend developer with a profound interest in integrating IIoT (Industrial Internet of Things) with cutting-edge machine learning technologies.<br>
 
 
 ## 🌐 Socials:
