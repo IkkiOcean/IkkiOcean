@@ -10,7 +10,7 @@
 
 # 🏆 GSSOC'24 Badges
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <a href="https://gssoc.girlscript.tech/leaderboard?year=2024&username=IkkiOcean">
+  <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=IkkiOcean">
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
