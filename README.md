@@ -29,7 +29,7 @@
 <details open>
   <summary><h1>👀 HacktoberFest Badges</h1></summary>
   <div align="center">
-    <img src="https://holopin.me/ikkiocean" />
+    <img src="https://holopin.me/ikkiocean" width="80%" height="80%" />
   </div>
 </details>
 
