@@ -48,14 +48,14 @@
 # <img src="gssoc.png" width="32px" height="32px" alt="GSSOC'24" /> GSSOC'24 Badges
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
   <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=IkkiOcean">
-    <img src="Explorer%20Badge.png" width="100px" height="100px" />
-    <img src="Adventurer%20Badge.png" width="100px" height="100px" />
-    <img src="Champion%20Badge.png" width="100px" height="100px" />
-    <img src="Trailblazer%20Badge.png" width="100px" height="100px" />
-    <img src="Summit%20Seeker%20Badge.png" width="100px" height="100px" />
-    <img src="Innovator%20Bage.png" width="105px" height="105px" />
-    <img src="Conqueror%20Badge.png" width="100px" height="100px" />
-    <img src="legendry.webp" width="100px" height="100px" />
+    <img src="Explorer%20Badge.png" width="200px" height="200px" />
+    <img src="Adventurer%20Badge.png" width="200px" height="200px" />
+    <img src="Champion%20Badge.png" width="200px" height="200px" />
+    <img src="Trailblazer%20Badge.png" width="200px" height="200px" />
+    <img src="Summit%20Seeker%20Badge.png" width="200px" height="200px" />
+    <img src="Innovator%20Bage.png" width="205px" height="205px" />
+    <img src="Conqueror%20Badge.png" width="200px" height="200px" />
+    <img src="legendry.webp" width="200px" height="200px" />
   </a>
 </div>
 
