@@ -47,17 +47,17 @@
 
 # <img src="gssoc.png" width="32px" height="32px" alt="GSSOC'24" /> GSSOC'24 Badges
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=IkkiOcean">
-    <img src="Explorer%20Badge.png" width="200px" height="200px" />
-    <img src="Adventurer%20Badge.png" width="200px" height="200px" />
-    <img src="Champion%20Badge.png" width="200px" height="200px" />
-    <img src="Trailblazer%20Badge.png" width="200px" height="200px" />
-    <img src="Summit%20Seeker%20Badge.png" width="200px" height="200px" />
-    <img src="Innovator%20Bage.png" width="205px" height="205px" />
-    <img src="Conqueror%20Badge.png" width="200px" height="200px" />
-    <img src="legendry.webp" width="200px" height="200px" />
-  </a>
+  <img src="Explorer%20Badge.png" width="150px" height="150px" />
+  <img src="Adventurer%20Badge.png" width="150px" height="150px" />
+  <img src="Champion%20Badge.png" width="150px" height="150px" />
+  <img src="Trailblazer%20Badge.png" width="150px" height="150px" />
+  <img src="Summit%20Seeker%20Badge.png" width="150px" height="150px" />
+  <img src="Innovator%20Bage.png" width="150px" height="150px" />
+  <img src="Conqueror%20Badge.png" width="150px" height="150px" />
+  <img src="legendry.webp" width="150px" height="150px" />
 </div>
+
+[See post](https://www.linkedin.com/posts/girlscriptsoc_gssoc2024-opensource-activity-7261997091411898369-G3h5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEUACWYB1dU17oi9djlLISJFxGz8dlgPYPc)
 
 <details open>
   <summary><h1>👀 HacktoberFest Badges</h1></summary>
